@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="gogoro_emergency" type="udp_radio" name="emergency_call" output="screen"/>
+</launch>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="gogoro_emergency" type="emergency_call.py" name="Emergency_call" output="screen"/>
+</launch>
